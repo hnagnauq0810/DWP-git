@@ -1,4 +1,4 @@
-# My Final Project
+# My Changed Final Project
 
 This repository contains my final project for the course.
 
